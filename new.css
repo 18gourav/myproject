@@ -1,0 +1,145 @@
+h1 {
+    text-align: center;
+    background-color: rgb(130, 224, 166);
+    border: solid greenyellow 5px;
+    border-radius: 10px;
+    margin: 50px;
+    padding:20px;
+    font-size: 35px;
+    width: 85%;
+    cursor: pointer;
+}
+                                                                        
+.search{                         
+    height: 700px;
+    width: 500px;
+    margin-left: 5%;
+    position: relative;
+    top: 50px;
+    background-color: white;
+    box-shadow: 10px 10px 10px whitesmoke;
+}    
+                                                                        
+                                                 
+body{
+    background-image: url("vande\ bharat\ photo.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}     
+
+.pnr{
+    background-color:#213d77;
+    color: aliceblue;
+    display: inline-block;
+    width: 225px; 
+}    
+
+.ch{
+    background-color:#213d77;
+    color: aliceblue;
+    display: inline-block;
+    margin-left: 46px; 
+      
+    width: 225px;   
+}     
+
+.ticket{
+    color: #213d77;
+    text-align: center;
+    font-size: 28px;
+    position: relative;
+    top: 0px;
+    cursor: pointer;
+}
+
+#img1{
+    width: 100px;
+    height: 150px;
+    float: right;
+}            
+
+#img2{
+    width: 100px;
+    height: 150px;
+    float: left;
+}
+
+.form{
+    position: relative;
+   margin-top: 150px;
+}          
+
+select{
+    width: 210px;
+    height: 28px; 
+}
+
+#form2{
+    margin-left: 100px;
+    width: 150px;
+    height: 30px; 
+}
+
+#form1{
+       margin-left: 20px;
+}
+
+#form3{
+    margin-left: 20px;
+}
+
+#form4{
+    margin-left: 100px;
+    margin-top: 30px;
+    width: 150px;
+    height: 30px; 
+}
+
+#form5{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+label{
+    font-size: 20px;
+    color: blue;
+    cursor: pointer;
+}   
+
+.button1{
+    background-color:#fb792b;
+    border: 5px solid white;
+    border-radius: 10px;
+    width: 100px;
+    height: 50px;
+    margin-left: 30px;
+    font-size: 18px;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+.button2{
+    background-color:#01bb0a;
+    border: 5px solid white;
+    border-radius: 10px;
+    width: 250px;
+    height: 50px;
+    color:aliceblue;
+    font-size: 18px;
+    margin-left: 80px;
+    cursor: pointer;
+}                                
+
+label{
+    color: #082b71;
+}
+
+.container{
+    width: 500px;
+    height: 61.333px;
+    background-color: #ffffff;
+    margin-left: 5%;
+    margin-top: 20px;
+    size: 20px; 
+    color: #0000ff;
+}        
